@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @Kalpha02
-- 👀 I’m interested in programming, electrical engineering and network technology
-- 🌱 I’m currently learning C# and MySQL
+
